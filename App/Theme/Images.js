@@ -3,5 +3,5 @@
  */
 
 export default {
-  logo: require('https://mrsoi.com/image/avatar.jpg'),
+  logo: require('../Assets/Images/TOM.png'),
 }
